@@ -1,0 +1,6 @@
+Andre,andre123!,USER
+Test,test321,USER
+Alli,aliBoss,USER
+Admin,admin,ADMIN
+Manny,manny123,USER
+gigel,gigel,USER
